@@ -1,0 +1,6 @@
+
+hola = hello
+chao = bye
+tiempo = time
+doctor = doctor
+enfermera = nurse
